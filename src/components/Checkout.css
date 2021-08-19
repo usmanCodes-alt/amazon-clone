@@ -1,0 +1,13 @@
+.checkout {
+  display: flex;
+  justify-content: space-between;
+}
+
+.checkout__right {
+  float: right;
+  padding: 10px;
+}
+
+.checkout__emptyCartMessage {
+  text-align: center;
+}
